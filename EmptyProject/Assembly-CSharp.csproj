@@ -46,8 +46,13 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\End.cs" />
      <Compile Include="Assets\IK\Scripts\ik\IKLimb_BrunoFerreira.cs" />
+     <Compile Include="Assets\IKAgent.cs" />
+     <Compile Include="Assets\VincentController.cs" />
      <None Include="Assets\IK\Readme.txt" />
+     <None Include="Assets\WomanKnightAnimationPack\Documents\Readme.txt" />
+     <None Include="Assets\Standard Assets\Shaders\DifSpecTransp.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -49,6 +49,8 @@
      <Compile Include="Assets\IK\Scripts\ik\IKControl.js" />
      <Compile Include="Assets\IK\Scripts\ik\Old Scripts (Outdated)\ikLimb.js" />
      <None Include="Assets\IK\Readme.txt" />
+     <None Include="Assets\WomanKnightAnimationPack\Documents\Readme.txt" />
+     <None Include="Assets\Standard Assets\Shaders\DifSpecTransp.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
