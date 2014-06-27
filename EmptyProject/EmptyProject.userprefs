@@ -1,10 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\IK\Scripts\ik\Old Scripts (Outdated)\ikLimb.js">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\testIK\project\EmptyProject\Assets\IK\Scripts\ik\Old Scripts (Outdated)\ikLimb.js">
     <Files>
-      <File FileName="Assets\IKAgent.cs" Line="11" Column="82" />
-      <File FileName="Assets\VincentController.cs" Line="14" Column="2" />
-      <File FileName="Assets\IK\Scripts\ik\Old Scripts (Outdated)\ikLimb.js" Line="22" Column="10" />
+      <File FileName="..\..\testIK\project\EmptyProject\Assets\VincentController.cs" Line="18" Column="31" />
+      <File FileName="..\..\testIK\project\EmptyProject\Assets\IK\Scripts\ik\Old Scripts (Outdated)\ikLimb.js" Line="54" Column="61" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
